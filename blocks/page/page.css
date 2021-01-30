@@ -1,0 +1,13 @@
+.page {
+    max-width: 1280px;
+    min-width: 320px;
+
+    font-family: 'Inter', sans-serif;
+    background-color: rgb(245,245,245);
+    color: rgb(40, 40, 40);
+    box-sizing: border-box;
+    margin: 0 auto;
+    position: relative;
+    padding: 20px;
+
+}

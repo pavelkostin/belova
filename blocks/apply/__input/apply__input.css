@@ -1,0 +1,39 @@
+
+.apply__input {
+
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    color: #000000;
+    background-color: rgb(245,245,245);
+    outline: none;
+    border: none;
+    padding: 13px 0 13px;
+    
+    border-bottom: 1px solid rgb(204, 204, 204);
+
+    }
+    
+    .apply__input:nth-of-type(1) {
+        padding-top: 0; 
+    }
+    
+
+    
+    
+    @media screen and (max-width: 880px) {
+        .apply__input {
+            font-size: 14px;
+            line-height: 17px;
+        }
+    }
+
+    .apply__input_message {
+        margin-top: 10px;
+        height: 50px;
+
+    }

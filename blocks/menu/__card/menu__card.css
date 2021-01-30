@@ -1,0 +1,16 @@
+.menu__card {
+
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+
+    
+    border-radius: 10px;
+    background-color: rgb(245,245,245);
+    color: rgb(40, 40, 40);
+
+
+    position: relative;
+}

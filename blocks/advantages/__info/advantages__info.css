@@ -1,0 +1,15 @@
+.advantages__info {
+    font-family: 'Inter';
+    font-size: 22px;
+    font-weight: 400;
+    align-self: center;
+    max-width: 200px;
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 880px) {
+    .advantages__info {
+        font-size: 18px;
+
+    }
+}

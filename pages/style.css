@@ -1,0 +1,50 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/Montserrat.css);
+@import url(../vendor/fonts/inter.css);
+
+
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__contacts/header__contacts.css);
+@import url(../blocks/header/__socials/header__socials.css);
+@import url(../blocks/header/__social/header__social.css);
+@import url(../blocks/header/__info/header__info.css);
+
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__video/slider__video.css);
+@import url(../blocks/slider/__image/slider__image.css);
+@import url(../blocks/slider/__header/slider__header.css);
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__header/menu__header.css);
+@import url(../blocks/menu/__list/menu__list.css);
+@import url(../blocks/menu/__card/menu__card.css);
+@import url(../blocks/menu/__image/menu__image.css);
+@import url(../blocks/menu/__caption/menu__caption.css);
+
+@import url(../blocks/apply/apply.css);
+@import url(../blocks/apply/__form/apply__form.css);
+@import url(../blocks/apply/__input/apply__input.css);
+@import url(../blocks/apply/__input/_submit/apply__input_submit.css);
+@import url(../blocks/apply/__caption/apply__caption.css);
+
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/__header/advantages__header.css);
+@import url(../blocks/advantages/__list/advantages__list.css);
+@import url(../blocks/advantages/__item/advantages__item.css);
+
+@import url(../blocks/advantages/__img/advantages__img.css);
+@import url(../blocks/advantages/__info/advantages__info.css);
+
+@import url(../blocks/overlay__down/overlay__down.css);
+
+
+@import url(../blocks/overlay/overlay.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__caption/footer__caption.css);

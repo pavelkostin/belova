@@ -1,0 +1,17 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    max-width: 1280px;
+    min-width: 320px;
+    background-color: rgb(245,245,245);
+    box-sizing: border-box;
+
+}
+
+
+
+
+

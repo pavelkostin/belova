@@ -1,0 +1,38 @@
+.menu__caption {
+    font-family: 'Inter';
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    z-index: 1;
+    opacity: .4;
+    padding: 0;
+    margin: 0;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+@media screen and (max-width: 880px) {
+    .menu__caption {
+        font-size: 18px;
+    }
+}
+
+
+.menu__caption {
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    -webkit-transition: all 1s ease-out;
+    
+    
+    }
+
+.menu__caption {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    cursor: pointer;
+}

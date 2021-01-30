@@ -1,0 +1,7 @@
+.slider__image {
+    max-width: 100%;
+    max-height: 100px;
+    object-fit: cover;
+    opacity: .6;
+    border-radius: 10px;
+}

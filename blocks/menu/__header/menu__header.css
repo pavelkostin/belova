@@ -1,0 +1,23 @@
+.menu__header {
+    color: rgb(40, 40, 40);
+    font-family: 'Inter';
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    text-transform: uppercase;
+
+}
+
+@media screen and (max-width: 880px) {
+    .menu__header {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .menu__header {
+        font-size: 20px;
+    }
+}

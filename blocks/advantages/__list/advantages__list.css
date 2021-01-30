@@ -1,0 +1,17 @@
+.advantages__list {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    max-height: 200px;
+
+    
+
+}
+
+@media screen and (max-width: 880px) {
+    .advantages__list {
+        align-items: stretch;
+    }
+}
