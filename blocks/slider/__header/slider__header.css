@@ -1,5 +1,6 @@
 .slider__header {
-	width: 50%;
+
+
 	margin: auto;
 	position: absolute;
 	top: 50%; left: 50%;
@@ -9,23 +10,27 @@
 
     text-align: center;
     align-self: center;
-    flex-wrap: wrap;
-    color:  white;
-    -webkit-text-stroke: 1px #F26767;
+
     font-size: 45px;
+
     font-style: normal;
     font-weight: 400;
 
+
+    justify-self: center;
+
+
+    background-color: #F26767;
+    color: rgb(245,245,245);
+    opacity: .8;
+    border-radius: 10px;
 }
 
-@media screen and (max-width: 880px) {
-    .slider__header {
-        font-size: 25px;
-    }
-}
+
 
 @media screen and (max-width: 640px) {
     .slider__header {
-        font-size: 20px;
+        font-size: 30px;
+
     }
 }

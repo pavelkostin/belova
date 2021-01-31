@@ -1,7 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/Montserrat.css);
 @import url(../vendor/fonts/inter.css);
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
 
 
 @import url(../blocks/page/page.css);
@@ -26,6 +26,7 @@
 @import url(../blocks/menu/__card/menu__card.css);
 @import url(../blocks/menu/__image/menu__image.css);
 @import url(../blocks/menu/__caption/menu__caption.css);
+@import url(../blocks/menu/__square/menu__square.css);
 
 @import url(../blocks/apply/apply.css);
 @import url(../blocks/apply/__form/apply__form.css);

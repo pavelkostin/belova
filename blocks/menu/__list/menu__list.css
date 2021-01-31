@@ -1,7 +1,9 @@
 .menu__list {
-
-    margin-top: 20px;
-    display: flex; 
+    width: 100%;
+    min-width: 320px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     column-gap: 20px;
     row-gap: 20px;
