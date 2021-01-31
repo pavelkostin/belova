@@ -13,6 +13,7 @@
 @import url(../blocks/header/__socials/header__socials.css);
 @import url(../blocks/header/__social/header__social.css);
 @import url(../blocks/header/__info/header__info.css);
+@import url(../blocks/header/__phone/header__phone.css);
 
 @import url(../blocks/slider/slider.css);
 @import url(../blocks/slider/__video/slider__video.css);
