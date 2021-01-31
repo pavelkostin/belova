@@ -10,7 +10,8 @@
     text-align: center;
     align-self: center;
     flex-wrap: wrap;
-    color:  rgb(245,245,245);
+    color:  white;
+    -webkit-text-stroke: 1px #F26767;
     font-size: 45px;
     font-style: normal;
     font-weight: 400;
