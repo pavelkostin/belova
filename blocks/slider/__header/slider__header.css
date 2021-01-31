@@ -2,11 +2,10 @@
     position: absolute;
     left: 0;
     right: 0;
-    font-family: 'Inter';
     color:  rgb(245,245,245);
     font-size: 35px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     text-align: center;
 }
 
