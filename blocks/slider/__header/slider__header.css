@@ -1,12 +1,13 @@
 .slider__header {
     position: absolute;
-    left: 0;
-    right: 0;
+    top: 30%;
+    left: 30%;
+    
     color:  rgb(245,245,245);
     font-size: 35px;
     font-style: normal;
     font-weight: 400;
-    text-align: center;
+
 }
 
 @media screen and (max-width: 880px) {
