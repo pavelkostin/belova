@@ -35,11 +35,11 @@
     // проводим авторизацию
     function login(){
         // данные созданного пользователя и приложения
-        voxImplant.login("user@application_url", "user_password");
+        voxImplant.login("Pavel@incomigcall.pkostin.n4.voximplant.com", "Icg&qT8V");
     }
 
     function makeCall(){
-        var call = voxImplant.call("phone_number"); // ваш номер для дозвона
+        var call = voxImplant.call("79953331592"); // ваш номер для дозвона
     }
 
     function testCall() {
