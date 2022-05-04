@@ -2,6 +2,7 @@
   "name": "belova",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://51.250.7.40/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",

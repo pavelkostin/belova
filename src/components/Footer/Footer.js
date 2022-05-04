@@ -9,7 +9,7 @@ function Footer() {
 
                 <div className='header__contacts' id='contacts'>
                     <p className='header__phone'>+7(916)7024421</p>
-                    <p className='header__phone'>info@evgeniabelova.com</p>
+                    <p className='header__phone'>be1977@yandex.ru</p>
                     <a
                         rel='noreferrer'
                         href='https://vk.com/id380374293'
