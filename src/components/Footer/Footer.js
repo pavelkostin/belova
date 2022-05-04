@@ -1,5 +1,4 @@
 import vk from '../../images/images/vk-social-network-logo_icon-icons.com_73339.svg';
-/* import inst from '../../images/images/instagram_f_icon-icons.com_65485.svg'; */
 import headerLogo from '../../images/logo__header-footer.svg';
 
 function Footer() {
@@ -8,8 +7,9 @@ function Footer() {
             <div className='footer__info'>
 
                 <div className='header__contacts' id='contacts'>
-                    <p className='header__phone'>+7(916)7024421</p>
+                    <p className='header__phone'><a className='header__phone' href='tel:+79167024421'>+7(916)7024421</a></p>
                     <p className='header__phone'>be1977@yandex.ru</p>
+
                     <a
                         rel='noreferrer'
                         href='https://vk.com/id380374293'
@@ -22,14 +22,14 @@ function Footer() {
                         />
                     </a>
                     <iframe
-                    className='iframe-map'
-                    title='location'
-                    src='https://yandex.ru/map-widget/v1/?um=constructor%3A4f9823d708fdc00a67a812e7f2d8ffb7187e770174e92f216c54bb7dcc933877&amp;source=constructor'
-/*                     minwidth='320'
-                    maxwidth='520'
-                    height='720' */
-                    frameBorder='0'>
-                </iframe>
+                        className='iframe-map'
+                        title='location'
+                        src='https://yandex.ru/map-widget/v1/?um=constructor%3A4f9823d708fdc00a67a812e7f2d8ffb7187e770174e92f216c54bb7dcc933877&amp;source=constructor'
+                        /*                     minwidth='320'
+                                            maxwidth='520'
+                                            height='720' */
+                        frameBorder='0'>
+                    </iframe>
                 </div>
 
             </div>
