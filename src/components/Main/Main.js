@@ -20,6 +20,7 @@ function Main({ onPhotoClick, showTailoringPopup, showRepair, showDesign, showPa
                 onPhotoClick={onPhotoClick}
             />
         </main>
+        
     );
 }
 
